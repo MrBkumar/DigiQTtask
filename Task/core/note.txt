@@ -1,0 +1,4 @@
+python manage.py dumpdata core.Movie > core/fixtures/movie_data.json
+
+
+
